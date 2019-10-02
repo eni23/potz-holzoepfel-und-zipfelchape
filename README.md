@@ -1,4 +1,4 @@
-
+# How to install
 
 ```
 helm install stable/nginx-ingress \
